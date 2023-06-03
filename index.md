@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Countries
-      link: /docs/stats
+      link: /docs/countries
     - theme: alt
       text: Tools
       link: /tools
