@@ -1,9 +1,21 @@
 # Appleseed
 
-## What is appleseed?
+Appleseed is a comprehensive website providing valuable information about different countries, states, and cities. Whether you are planning to relocate, visit, or simply learn about a place, Appleseed offers a wide range of resources to enhance your understanding. This platform incorporates maps, charts, ratings, reviews, and pictures to provide users with a holistic view of various locations.
 
-Appleseed is a website with information about diffetent countries, states and cities. It has everything you should read before moving, visiting or just learning about a place. It's full of maps, charts, ratings, reviews and pictures.
+One of the key features of Appleseed is its ability to compare Purchasing Power Parity (PPP) and Nominal GDP (Gross Domestic Product) among different countries and states/provinces where data is available. This functionality allows users to assess the cost of living in different areas and make informed decisions.
 
-It's also a tool for comparing PPP (Purchasing Power Parity) and Nominal GDP (Gross Domestic Product) of different countries and states / provinces (where such data is available). It's a great tool for comparing the cost of living in different places.
+## Key Features
 
-For example, you can enter your current salary in Cordoba, Argentina, and see how much you would need to earn in New York City, USA, to maintain the same standard of living.
+- Comprehensive information about countries, states, and cities
+- Maps, charts, ratings, reviews, and pictures for enhanced understanding
+- Comparative analysis of PPP and Nominal GDP
+- PPP adjusted exchange rate calculator
+- Cost of living comparisons between different locations
+
+## Technologies Used
+
+Appleseed is built using Vue, a progressive JavaScript framework for building user interfaces, and Vitepress, a lightweight static site generator built on top of Vue. Vitepress enables rapid development and easy documentation creation, making it an ideal choice for Appleseed's information-rich platform.
+
+## License
+
+Appleseed is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this software as per the terms of this license.
