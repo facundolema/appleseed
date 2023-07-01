@@ -31,6 +31,8 @@
 - [x] https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_life_expectancy
 - https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state
 - https://www.monito.com/en/wiki/most-immigrant-friendly-states-in-the-us
+- https://en.m.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+- https://en.m.wikipedia.org/wiki/Indian_reservation
 
 ## Misc
 - https://en.wikipedia.org/wiki/List_of_school_shootings_in_the_United_States_(2000%E2%80%93present)
